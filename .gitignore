@@ -17,3 +17,8 @@ erl_crash.dump
 
  *.swp
  *.swo
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
